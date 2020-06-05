@@ -1,1 +1,1 @@
-This code is only a sample piece from a project
+Android code sample
